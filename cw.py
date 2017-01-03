@@ -6,7 +6,6 @@ Definitions:
 - Clean text: a string containing only [A-Z0-9 ] (which we can encode as CW)
 """
 
-import math
 import random
 import re
 import time
